@@ -29,6 +29,8 @@ Each row represents yearly economic data per country.
 
 ## Model
 Difference-in-differences
+
+
 The diff-in-diff approach allows us to compare countries that have followed the same GDP or trade balance trend before the outbreak of an epidemic. Ideally, we will find a couple of countries that, besides having the same GDP or trade balance trend, one was more affected by an epidemic outbreak than the other.
 ![Test Image 1](diffindiff.png)
 
