@@ -10,7 +10,7 @@ In this project, we will focus on the influence of the COVID-19 virus on unemplo
 ## Motivation
 We are currently experiencing one of the deadliest pandemics in human history. As of now, the effects in the economy due to travel restrictions, stay-at-home/shelter-in-place orders, closure of small businesses, and so on are starting to be evident and concerning in many countries. 
 
-In the USA (as of March 30, 2020) 30 out of 50 states have asked their residents to avoid going out unless they work for essential businesses or to do other necessities such as go to the grocery store, hospitals, take care of an affected family member, and some others. As an effect of these measures, businesses are facing a large decrease in sales and revenues, which causes workers to be laid off and some companies have frozen hiring processes. According to a study[www.stlouisfed.org/on-the-economy/2020/march/back-envelope-estimates-next-quarters-unemployment-rate] published by the Federal Reserve Bank of St. Louis on March 24, the unemployment rate could reach 32% in the second quarter of the year. 
+In the USA (as of March 30, 2020) 30 out of 50 states have asked their residents to avoid going out unless they work for essential businesses or to do other necessities such as go to the grocery store, hospitals, take care of an affected family member, and some others. As an effect of these measures, businesses are facing a large decrease in sales and revenues, which causes workers to be laid off and some companies have frozen hiring processes. According to a [study](www.stlouisfed.org/on-the-economy/2020/march/back-envelope-estimates-next-quarters-unemployment-rate) published by the Federal Reserve Bank of St. Louis on March 24, the unemployment rate could reach 32% in the second quarter of the year. 
 
 As a result of this analysis, we will be able to measure the impact of the measures taken to stop the spread of the COVID-19 virus on unemployment. Our results are taking into account only beneficiaries of federal unemployment insurance who are citizens or eligible to work non-citizens that meet their’s state criteria to be insured.
 countries took to recover from previous epidemics and how effective their economic decisions were.
@@ -35,7 +35,6 @@ Features: Data sourced from press coverage grouping information by state and cou
 
 ## Model
 Difference-in-differences
-
 
 The diff-in-diff approach allows us to compare states that have followed the same unemployment claims trend before the stay-at-home order. Ideally, we will find a couple of states that, besides having the same unemployment claims trend, one was more affected by the measures to stop the spread of COVID-19 virus than the others.
 ![Test Image 1](diffindiff.png)
