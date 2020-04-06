@@ -5,34 +5,48 @@ March 21, 2020
 Jose Luis Moscoso | Juli You | Ana Belen Barcenas
 
 ## Topic 
-The influence of financial crisis (Housing crisis 2008 / dot com crisis 2001) across countries with a trade balance mostly influenced by the US or China.
+In this project, we will focus on the influence of the COVID-19 virus on unemployment insurance weekly claims in the USA. We will perform a comparison of unemployment claims between the states that have put in place statewide stay-at-home/shelter-in-place orders and those states that have not placed any order at all.
 
 ## Motivation
-The U.S. and China are the two dominant economies in the world for the most recent 20 years. There have been relevant studies evaluating the impact of financial crisis on those two economies (1). One of the factors that economists study is related to the need of China to maintain surpluses in the balance trade. China requires continuous growth in its exports, in order to secure growing labor stability. Opening a free trade agreement with China exposes smaller economies to unfair trade agreements. So, most regions have tried to negotiate as an economic block to balance commercial power. For example, The European Union has been negotiating open trading with China, in order to improve the negative current commercial balance (2). In this paper, we will compare the impact of the major financial crisis, in 2001 Dot.com and 2008 Housing, in countries/regions/economic blocks that have a significant trade balance with the US and those that have a significant trade balance with China.
+We are currently experiencing one of the deadliest pandemics in human history. As of now, the effects in the economy due to travel restrictions, stay-at-home/shelter-in-place orders, closure of small businesses, and so on are starting to be evident and concerning in many countries. 
+
+In the USA (as of March 30, 2020) 30 out of 50 states have asked their residents to avoid going out unless they work for essential businesses or to do other necessities such as go to the grocery store, hospitals, take care of an affected family member, and some others. As an effect of these measures, businesses are facing a large decrease in sales and revenues, which causes workers to be laid off and some companies have frozen hiring processes. According to a [study](www.stlouisfed.org/on-the-economy/2020/march/back-envelope-estimates-next-quarters-unemployment-rate) published by the Federal Reserve Bank of St. Louis on March 24, the unemployment rate could reach 32% in the second quarter of the year. 
+
+As a result of this analysis, we will be able to measure the impact of the measures taken to stop the spread of the COVID-19 virus on unemployment. Our results are taking into account only beneficiaries of federal unemployment insurance who are citizens or eligible to work non-citizens that meet their’s state criteria to be insured.
+countries took to recover from previous epidemics and how effective their economic decisions were.
 
 ## Project Question
-1. Will the financial crisis have an impact on Trade Balance? If so, what is the impact for developing and developed countries?
-2. Will the financial crisis have an impact on GDP? If so, what is the impact for developing and developed countries?
+Will the stay-at-home/shelter-in-place order have an impact on unemployment claims? If so, what is the impact on the states that issued the order due to COVID-19, compared to those without the order?
 
 ## Project Hypothesis
-There is a different effect between the compared groups (cities, countries, etc) given any of the following status quo they have pre-treatment:
-Developed countries
-Banking system regulations
-Exposure to your economy to China 
-Any other difference in how people responded to the crisis
+We aspire to estimate the impact of stay-at-home/shelter-in-place order due to COVID-19 on unemployment claims. We choose the number of unemployment claims as the measure of unemployment with the assumption that unemployed US citizens and eligible non-citizen workers will file for unemployment insurance.
 
-## Data sources
-* IMF
-* Organization for Economic Co-operation and Development
+We expect that the number change in unemployment claims, before and after issuing stay-at-home/shelter-in-place order, will differ from the number in the states with similar pre-order trendings in unemployment filings.
 
-## Model (proposal)
+
+## Data 
+#### Unemployment Insurance weekly claims:
+Features: Time series (weekly) data with seasonal and non seasonal adjustment records of new and persistent unemployed people. It records an exponential growth for the week of March 21st of 1,052.9% due to coronavirus. Only consider residents qualified to claim unemployment insurance, non-internationals. Period available: 1960 - 2020, weekly updates.
+
+#### Stay-at-home/Shelter-in-place order
+Features: Data sourced from press coverage grouping information by state and county level. Includes total, partial and current non stay-at-home/shelter-in-place orders across the US. Each row includes the dates and scope of restriction, either statewide or no order at all. 
+* Statewide stay-at-home/shelter-in-place order states: California, NY, North Carolina, Washington and Massashusetts
+* No stay-at-home/shelter-in-place order: North Dakota, South Dakota, Nebraska, Iowa and Nevada
+
+## Model
+Difference-in-differences
+
+The diff-in-diff approach allows us to compare states that have followed the same unemployment claims trend before the stay-at-home order. Ideally, we will find a couple of states that, besides having the same unemployment claims trend, one was more affected by the measures to stop the spread of COVID-19 virus than the others.
+![Test Image 1](diffindiff.png)
 
 ## References
-* Effect of the financial crisis on The US-China Economic relationship http://prasad.aem.cornell.edu/doc/CATO.pd
-* European record of EU-China commercial balance https://www.statista.com/statistics/257155/eu-trade-with-china/
-* Comparison trade balance EU and USA with China https://www.usitc.gov/publications/332/executive_briefings/eu-china_and_u_s-china_trade_in_goods_and_services_2019-08_ebot_benedetto.pd
-* World Integrated Trade Solutions – Data sets https://wits.worldbank.org/CountryProfile/en/LCN
-* Chinese trade in Latin America compared with EU and US https://www.albany.edu/cas/assets/Narins_2018_PG_Chinese_Trade.pdf
-* Data sets  – Trading economics https://tradingeconomics.com/china/balance-of-trade
+* https://www.nytimes.com/interactive/2020/us/coronavirus-stay-at-home-order.html
+* https://www.wsj.com/articles/a-state-by-state-guide-to-coronavirus-lockdowns-11584749351?mod=theme_coronavirus-ribbon
+* https://www.dol.gov/ui/data.pdf
+* https://www.dol.gov/general/topic/unemployment-insurance
+* https://www.businessinsider.com/fed-unemployment-forecast-coronavirus-pandemic-millions-layoffs-record-rate-jobs-2020-3
+* https://www.stlouisfed.org/on-the-economy/2020/march/back-envelope-estimates-next-quarters-unemployment-rate
+* https://github.com/nytimes/covid-19-data
+* https://oui.doleta.gov/unemploy/claims.asp
 
 
