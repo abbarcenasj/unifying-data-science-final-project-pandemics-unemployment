@@ -46,4 +46,7 @@ The diff-in-diff approach allows us to compare states that have followed the sam
 * https://www.dol.gov/general/topic/unemployment-insurance
 * https://www.businessinsider.com/fed-unemployment-forecast-coronavirus-pandemic-millions-layoffs-record-rate-jobs-2020-3
 * https://www.stlouisfed.org/on-the-economy/2020/march/back-envelope-estimates-next-quarters-unemployment-rate
+* https://github.com/nytimes/covid-19-data
+* https://oui.doleta.gov/unemploy/claims.asp
+
 
