@@ -1,0 +1,181 @@
+date,month,Area,state_county_code,unemp_rate
+1/31/20,1,Alameda County,6001,3.1
+2/29/20,2,Alameda County,6001,3
+3/31/20,3,Alameda County,6001,3.8
+1/31/20,1,Alpine County,6003,4.6
+2/29/20,2,Alpine County,6003,5
+3/31/20,3,Alpine County,6003,7.1
+1/31/20,1,Amador County,6005,4.7
+2/29/20,2,Amador County,6005,4.4
+3/31/20,3,Amador County,6005,5.4
+1/31/20,1,Butte County,6007,5.6
+2/29/20,2,Butte County,6007,5.4
+3/31/20,3,Butte County,6007,6.7
+1/31/20,1,Calaveras County,6009,4.3
+2/29/20,2,Calaveras County,6009,4.2
+3/31/20,3,Calaveras County,6009,5.4
+1/31/20,1,Colusa County,6011,19.2
+2/29/20,2,Colusa County,6011,19.8
+3/31/20,3,Colusa County,6011,22.4
+1/31/20,1,Contra Costa County,6013,3.2
+2/29/20,2,Contra Costa County,6013,3.1
+3/31/20,3,Contra Costa County,6013,4
+1/31/20,1,Del Norte County,6015,6.5
+2/29/20,2,Del Norte County,6015,6.2
+3/31/20,3,Del Norte County,6015,7.6
+1/31/20,1,El Dorado County,6017,3.7
+2/29/20,2,El Dorado County,6017,3.7
+3/31/20,3,El Dorado County,6017,4.7
+1/31/20,1,Fresno County,6019,8.1
+2/29/20,2,Fresno County,6019,8.5
+3/31/20,3,Fresno County,6019,10.8
+1/31/20,1,Glenn County,6021,7.3
+2/29/20,2,Glenn County,6021,7.1
+3/31/20,3,Glenn County,6021,8.7
+1/31/20,1,Humboldt County,6023,4.1
+2/29/20,2,Humboldt County,6023,3.9
+3/31/20,3,Humboldt County,6023,4.9
+1/31/20,1,Imperial County,6025,18
+2/29/20,2,Imperial County,6025,17
+3/31/20,3,Imperial County,6025,20.5
+1/31/20,1,Inyo County,6027,3.9
+2/29/20,2,Inyo County,6027,3.9
+3/31/20,3,Inyo County,6027,4.8
+1/31/20,1,Kern County,6029,8.6
+2/29/20,2,Kern County,6029,9.1
+3/31/20,3,Kern County,6029,12
+1/31/20,1,Kings County,6031,9.4
+2/29/20,2,Kings County,6031,9.8
+3/31/20,3,Kings County,6031,12.3
+1/31/20,1,Lake County,6033,6
+2/29/20,2,Lake County,6033,5.8
+3/31/20,3,Lake County,6033,7
+1/31/20,1,Lassen County,6035,5.6
+2/29/20,2,Lassen County,6035,5.8
+3/31/20,3,Lassen County,6035,7.2
+1/31/20,1,Los Angeles County,6037,4.5
+2/29/20,2,Los Angeles County,6037,4.6
+3/31/20,3,Los Angeles County,6037,6.4
+1/31/20,1,Madera County,6039,8.1
+2/29/20,2,Madera County,6039,8
+3/31/20,3,Madera County,6039,10.5
+1/31/20,1,Marin County,6041,2.4
+2/29/20,2,Marin County,6041,2.3
+3/31/20,3,Marin County,6041,3
+1/31/20,1,Mariposa County,6043,6.3
+2/29/20,2,Mariposa County,6043,6.3
+3/31/20,3,Mariposa County,6043,7.6
+1/31/20,1,Mendocino County,6045,4.8
+2/29/20,2,Mendocino County,6045,4.7
+3/31/20,3,Mendocino County,6045,5.9
+1/31/20,1,Merced County,6047,9.8
+2/29/20,2,Merced County,6047,10.4
+3/31/20,3,Merced County,6047,12.9
+1/31/20,1,Modoc County,6049,9.7
+2/29/20,2,Modoc County,6049,9.8
+3/31/20,3,Modoc County,6049,11.5
+1/31/20,1,Mono County,6051,3.5
+2/29/20,2,Mono County,6051,3.8
+3/31/20,3,Mono County,6051,4.9
+1/31/20,1,Monterey County,6053,9.7
+2/29/20,2,Monterey County,6053,10
+3/31/20,3,Monterey County,6053,11.8
+1/31/20,1,Napa County,6055,3.5
+2/29/20,2,Napa County,6055,3.2
+3/31/20,3,Napa County,6055,4
+1/31/20,1,Nevada County,6057,3.7
+2/29/20,2,Nevada County,6057,3.6
+3/31/20,3,Nevada County,6057,4.6
+1/31/20,1,Orange County,6059,2.9
+2/29/20,2,Orange County,6059,2.8
+3/31/20,3,Orange County,6059,3.6
+1/31/20,1,Placer County,6061,3.3
+2/29/20,2,Placer County,6061,3.2
+3/31/20,3,Placer County,6061,4
+1/31/20,1,Plumas County,6063,10.5
+2/29/20,2,Plumas County,6063,11
+3/31/20,3,Plumas County,6063,13.2
+1/31/20,1,Riverside County,6065,4.2
+2/29/20,2,Riverside County,6065,4.1
+3/31/20,3,Riverside County,6065,5.3
+1/31/20,1,Sacramento County,6067,3.9
+2/29/20,2,Sacramento County,6067,3.7
+3/31/20,3,Sacramento County,6067,4.7
+1/31/20,1,San Benito County,6069,6.2
+2/29/20,2,San Benito County,6069,6.2
+3/31/20,3,San Benito County,6069,7.9
+1/31/20,1,San Bernardino County,6071,3.9
+2/29/20,2,San Bernardino County,6071,3.8
+3/31/20,3,San Bernardino County,6071,4.9
+1/31/20,1,San Diego County,6073,3.3
+2/29/20,2,San Diego County,6073,3.2
+3/31/20,3,San Diego County,6073,4.1
+1/31/20,1,San Francisco County/city,6075,2.3
+2/29/20,2,San Francisco County/city,6075,2.3
+3/31/20,3,San Francisco County/city,6075,3
+1/31/20,1,San Joaquin County,6077,6.7
+2/29/20,2,San Joaquin County,6077,6.6
+3/31/20,3,San Joaquin County,6077,8.3
+1/31/20,1,San Luis Obispo County,6079,3.1
+2/29/20,2,San Luis Obispo County,6079,3
+3/31/20,3,San Luis Obispo County,6079,3.8
+1/31/20,1,San Mateo County,6081,2.1
+2/29/20,2,San Mateo County,6081,2.1
+3/31/20,3,San Mateo County,6081,2.8
+1/31/20,1,Santa Barbara County,6083,4.7
+2/29/20,2,Santa Barbara County,6083,4.6
+3/31/20,3,Santa Barbara County,6083,5.6
+1/31/20,1,Santa Clara County,6085,2.6
+2/29/20,2,Santa Clara County,6085,2.6
+3/31/20,3,Santa Clara County,6085,3.3
+1/31/20,1,Santa Cruz County,6087,6.1
+2/29/20,2,Santa Cruz County,6087,6.4
+3/31/20,3,Santa Cruz County,6087,7.9
+1/31/20,1,Shasta County,6089,5.4
+2/29/20,2,Shasta County,6089,5.4
+3/31/20,3,Shasta County,6089,6.8
+1/31/20,1,Sierra County,6091,6.2
+2/29/20,2,Sierra County,6091,6.9
+3/31/20,3,Sierra County,6091,8.5
+1/31/20,1,Siskiyou County,6093,8.3
+2/29/20,2,Siskiyou County,6093,8.5
+3/31/20,3,Siskiyou County,6093,10
+1/31/20,1,Solano County,6095,4
+2/29/20,2,Solano County,6095,3.9
+3/31/20,3,Solano County,6095,5
+1/31/20,1,Sonoma County,6097,2.9
+2/29/20,2,Sonoma County,6097,2.8
+3/31/20,3,Sonoma County,6097,3.6
+1/31/20,1,Stanislaus County,6099,6.6
+2/29/20,2,Stanislaus County,6099,6.6
+3/31/20,3,Stanislaus County,6099,8.3
+1/31/20,1,Sutter County,6101,8.7
+2/29/20,2,Sutter County,6101,8.9
+3/31/20,3,Sutter County,6101,11.1
+1/31/20,1,Tehama County,6103,6.3
+2/29/20,2,Tehama County,6103,6.2
+3/31/20,3,Tehama County,6103,7.6
+1/31/20,1,Trinity County,6105,6.9
+2/29/20,2,Trinity County,6105,7.3
+3/31/20,3,Trinity County,6105,9.2
+1/31/20,1,Tulare County,6107,11
+2/29/20,2,Tulare County,6107,11.5
+3/31/20,3,Tulare County,6107,14.5
+1/31/20,1,Tuolumne County,6109,4.9
+2/29/20,2,Tuolumne County,6109,5
+3/31/20,3,Tuolumne County,6109,6.2
+1/31/20,1,Ventura County,6111,3.9
+2/29/20,2,Ventura County,6111,3.7
+3/31/20,3,Ventura County,6111,4.6
+1/31/20,1,Yolo County,6113,4.9
+2/29/20,2,Yolo County,6113,4.8
+3/31/20,3,Yolo County,6113,5.9
+1/31/20,1,Yuba County,6115,7
+2/29/20,2,Yuba County,6115,6.9
+3/31/20,3,Yuba County,6115,8.5
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
