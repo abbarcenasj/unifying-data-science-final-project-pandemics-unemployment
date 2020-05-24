@@ -1,5 +1,5 @@
 # Final Project Proposal
-#### Unifying Data Science II
+#### Unifying Data Science II - Spring 2020
 March 21, 2020
 
 Jose Luis Moscoso | Juli You | Ana Belen Barcenas
